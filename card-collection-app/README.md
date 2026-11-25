@@ -17,7 +17,6 @@ This installs the latest versions and writes them into `package.json`. Record th
 Create `.env` (git-ignored) containing:
 
 ```
-MONGODB_URI=mongodb+srv://hinesna_db_user:4CJyUtUodX64QOlt@cluster0.uxd1p1i.mongodb.net/cardLibrary
 
 ```
 
